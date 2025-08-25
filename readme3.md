@@ -1,3 +1,1 @@
-(google)[https://www.google.com]
-
-const a = b; a-b ;
+https://www.google.com
